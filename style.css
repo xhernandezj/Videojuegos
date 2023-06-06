@@ -170,6 +170,30 @@ footer p {
 	padding: 0;
 }
 
+#dialog-content4 img {
+	width: 100%;
+}
+
+#dialog-content4 {
+	padding: 0;
+}
+
+#dialog-content5 img {
+	width: 100%;
+}
+
+#dialog-content5 {
+	padding: 0;
+}
+
+#dialog-content6 img {
+	width: 100%;
+}
+
+#dialog-content6 {
+	padding: 0;
+}
+
 .image {
 	width: 32%;
 	padding-top: 30%;
@@ -202,13 +226,13 @@ footer p {
 }
 
 .img5{
-	background-image: url("img/foodstudy5.jpg");
+	background-image: url("img/Ana.jpg");
 	background-size: cover;
 	background-position: center;
 }
 
 .img6{
-	background-image: url("img/foodstudy6.jpg");
+	background-image: url("img/Luisa.jpg");
 	background-size: cover;
 	background-position: center;
 }
