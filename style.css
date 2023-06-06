@@ -139,6 +139,35 @@ footer p {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
+	align-items: center;
+}
+
+.juegos{
+		width: 32%;
+	}
+
+#dialog-content1 img {
+	width: 100%;
+}
+
+#dialog-content1 {
+	padding: 0;
+}
+
+#dialog-content2 img {
+	width: 100%;
+}
+
+#dialog-content2 {
+	padding: 0;
+}
+
+#dialog-content3 img {
+	width: 100%;
+}
+
+#dialog-content3 {
+	padding: 0;
 }
 
 .image {
@@ -498,6 +527,12 @@ h1 {
 	p {
     font-size: 12px;
 	}
+	
+	.juegos
+	{
+		width: 100%;
+	}
+	
 	
 	
 	
