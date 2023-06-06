@@ -234,6 +234,22 @@ footer p {
 	padding: 0;
 }
 
+#dialog-content12 img {
+	width: 100%;
+}
+
+#dialog-content12 {
+	padding: 0;
+}
+
+#dialog-content13 img {
+	width: 100%;
+}
+
+#dialog-content13 {
+	padding: 0;
+}
+
 .image {
 	width: 32%;
 	padding-top: 30%;
@@ -308,15 +324,15 @@ footer p {
 }
 
 .img12{
-	background-image: url("img/sb5.jpg");
+	background-image: url("img/Mica.jpg");
 	background-size: cover;
-	background-position: right;
+	background-position: center;
 }
 
 .img13{
-	background-image: url("img/sb6.jpg");
+	background-image: url("img/Mirelle.jpg");
 	background-size: cover;
-	background-position: right;
+	background-position: center;
 }
 
 .img14{
