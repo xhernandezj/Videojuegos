@@ -194,6 +194,46 @@ footer p {
 	padding: 0;
 }
 
+#dialog-content7 img {
+	width: 100%;
+}
+
+#dialog-content7 {
+	padding: 0;
+}
+
+#dialog-content8 img {
+	width: 100%;
+}
+
+#dialog-content8 {
+	padding: 0;
+}
+
+#dialog-content9 img {
+	width: 100%;
+}
+
+#dialog-content9 {
+	padding: 0;
+}
+
+#dialog-content10 img {
+	width: 100%;
+}
+
+#dialog-content10 {
+	padding: 0;
+}
+
+#dialog-content11 img {
+	width: 100%;
+}
+
+#dialog-content11 {
+	padding: 0;
+}
+
 .image {
 	width: 32%;
 	padding-top: 30%;
@@ -238,33 +278,33 @@ footer p {
 }
 
 .img7{
-	background-image: url("img/foodstudy7.jpg");
+	background-image: url("img/Val.jpg");
 	background-size: cover;
-	background-position: right;
+	background-position: center;
 }
 
 .img8{
-	background-image: url("img/sb1.jpg");
+	background-image: url("img/Allan.jpg");
 	background-size: cover;
-	background-position: right;
+	background-position: center;
 }
 
 .img9{
-	background-image: url("img/sb2.jpg");
+	background-image: url("img/Fabrizzio.jpg");
 	background-size: cover;
-	background-position: right;
+	background-position: center;
 }
 
 .img10{
-	background-image: url("img/sb3.jpg");
+	background-image: url("img/Emi.jpg");
 	background-size: cover;
-	background-position: right;
+	background-position: center;
 }
 
 .img11{
-	background-image: url("img/sb4.jpg");
+	background-image: url("img/Arantza.jpg");
 	background-size: cover;
-	background-position: right;
+	background-position: left;
 }
 
 .img12{
