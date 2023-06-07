@@ -250,6 +250,30 @@ footer p {
 	padding: 0;
 }
 
+#dialog-content14 img {
+	width: 100%;
+}
+
+#dialog-content14 {
+	padding: 0;
+}
+
+#dialog-content15 img {
+	width: 100%;
+}
+
+#dialog-content15 {
+	padding: 0;
+}
+
+#dialog-content16 img {
+	width: 100%;
+}
+
+#dialog-content16 {
+	padding: 0;
+}
+
 .image {
 	width: 32%;
 	padding-top: 30%;
@@ -336,101 +360,23 @@ footer p {
 }
 
 .img14{
-	background-image: url("img/sb7.jpg");
+	background-image: url("img/Alexa.png");
 	background-size: cover;
-	background-position: right;
+	background-position: center;
 }
 
 .img15{
-	background-image: url("img/sb8.jpg");
+	background-image: url("img/Regina.png");
 	background-size: cover;
-	background-position: right;
+	background-position: center;
 }
 
 .img16{
-	background-image: url("img/sb9.jpg");
+	background-image: url("img/Marielle.png");
 	background-size: cover;
-	background-position: right;
+	background-position: center;
 }
 
-.img17{
-	background-image: url("img/sb10.jpg");
-	background-size: cover;
-	background-position: right;
-}
-
-.img18{
-	background-image: url("img/sb11.jpg");
-	background-size: cover;
-	background-position: right;
-}
-
-.img19{
-	background-image: url("img/sb12.jpg");
-	background-size: cover;
-	background-position: right;
-}
-
-.publicvisage{
-	padding: 20px;
-	padding-top: 120px;
-	max-width: 1200px;
-    margin: auto;
-	}
-
-.img20{
-	background-image: url("img/pb1.JPG");
-	background-size: cover;
-	background-position: right;
-}
-
-.img21{
-	background-image: url("img/pb2.JPG");
-	background-size: cover;
-	background-position: right;
-}
-
-.img22{
-	background-image: url("img/pb3.JPG");
-	background-size: cover;
-	background-position: right;
-}
-
-.img23{
-	background-image: url("img/pb4.JPG");
-	background-size: cover;
-	background-position: right;
-}
-
-.img24{
-	background-image: url("img/pb5.JPG");
-	background-size: cover;
-	background-position: right;
-}
-
-.img25{
-	background-image: url("img/pb6.JPG");
-	background-size: cover;
-	background-position: right;
-}
-
-.img26{
-	background-image: url("img/pb7.JPG");
-	background-size: cover;
-	background-position: right;
-}
-
-.img27{
-	background-image: url("img/pb8.JPG");
-	background-size: cover;
-	background-position: right;
-}
-
-.img28{
-	background-image: url("img/pb9.JPG");
-	background-size: cover;
-	background-position: right;
-}
 
 
 /* ipad */
